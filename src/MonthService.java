@@ -46,7 +46,7 @@ public class MonthService {
         } else if (monthNumber == 3) {
             return "Март";
         }
-        return "";
+        return " ";
     }
 
     String mostProfit(int month) {
